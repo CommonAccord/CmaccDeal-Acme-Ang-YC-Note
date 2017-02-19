@@ -7,6 +7,10 @@ In an ideal world (one in which principals and their lawyers use git), they coul
 
 To avoid issues about variations to the underlying repo (Cmacc-Source), the final should note the current commit hashes (e.g., a76d199) of the underlying repos.
 
+DEMO:
+
+http://source.commonaccord.org/index.php?action=list&file=D/Acme/Ang-YC-Note/
+
 DEPENDENCIES:
 
 Cmacc-Source
